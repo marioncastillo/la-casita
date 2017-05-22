@@ -30,9 +30,9 @@
 	-moz-border-radius: 50px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
-	position: fixed;
+	position: absolute;
 	top: 94px;
-	right: 261px;
+	 left: 510px;;
 	z-index: 1;
 }
 
@@ -43,9 +43,9 @@
 	-moz-border-radius: 50px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
-	position: fixed;
+	position: absolute;
 	top: 49px;
-	right: 234px;
+	left: 539px;
 	z-index: 1;
 }
 .humo3{
@@ -55,9 +55,9 @@
 	-moz-border-radius: 50px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
-	position: fixed;
+	position: absolute;
 	top: 19px;
-	right: 195px;;
+	left: 589px;
 	z-index: 1;
 }
 .casa{
