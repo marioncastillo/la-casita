@@ -1,8 +1,8 @@
 .contenedor{
 	margin-left: 300px;
-
-
 }
+
+
 .techo{
 
 	border-bottom: 100px solid #913E07;
@@ -29,3 +29,16 @@
 	top: 400px;
 	
 }
+.sol{
+	width: 100px;
+	height: 100px;
+	background: #FFFF00;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	position: fixed;
+	top: 30px;
+	left: 30px;
+}
+
+.puerta
